@@ -1,4 +1,4 @@
-# telebot
+# Telegram bot to receive current offers of apartments.
   
   What is it?
   -----------
